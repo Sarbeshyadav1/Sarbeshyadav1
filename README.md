@@ -54,5 +54,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;💡%20Building%20solutions%20that%20matter&center=true&width=600&height=50">
+  <span style="color:#ff4d4d;">💡 I don’t just write code</span><br>
+  <span style="color:#4da6ff;">🚀 I build solutions</span><br>
+  <span style="color:#33cc33;">🔥 That actually matter</span>
 </p>
