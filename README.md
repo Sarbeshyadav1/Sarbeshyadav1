@@ -54,9 +54,5 @@
 
 
 <p align="center">
-<h3 align="center">💡 "I don’t just write code, I build solutions that matter."</h3>
-  </p>
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;Open%20Source%20Contributor;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;💡%20Building%20solutions%20that%20matter&center=true&width=600&height=50">
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
