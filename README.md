@@ -20,7 +20,7 @@
 + Education   : B.Tech CSE @ SRM University AP
 + Mission     : Build intelligent systems that solve real-world problems
 + Status      : Always Learning | Always Building 🚀
-+ 
+  
 ---
 <!-- Hacker Quote -->
 <p align="center">
