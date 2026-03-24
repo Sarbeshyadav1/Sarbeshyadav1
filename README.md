@@ -47,9 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sarbeshyadav1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarbeshyadav1&theme=radical&no-frame=true&margin-w=10" />
-</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarbeshyadav1&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -63,4 +61,6 @@
   <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
+💡 "I don’t just write code, I build solutions that matter."
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
