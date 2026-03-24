@@ -1,87 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sarbesh Yadav</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
+<h1 align="center">👨‍💻 Sarbesh Yadav</h1>
+<h3 align="center">⚡ AI Engineer • Full Stack Dev • Future Builder</h3>
 
-<!-- Typing Animation -->
+<!-- 3D Neon Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;Open%20Source%20Contributor;Always%20Learning%20New%20Things&center=true&width=700&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=120&section=header"/>
 </p>
 
-<!-- Hacker Quote -->
+<!-- Typing + Futuristic -->
 <p align="center">
-  <span style="color:#00ffff;">🤖 Training models by day</span><br>
-  <span style="color:#ff66cc;">💻 Debugging life by night</span><br>
-  <span style="color:#ffff66;">🚀 Building things that actually matter</span>
-</p>
-
----
-
-<!-- 3D Contribution Graph (Mountain Style) -->
-<h2 align="center">📈 My Coding Journey</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarbeshyadav1&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarbeshyadav1&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=Initializing+System...;AI+Developer+Mode+Activated;Building+Smart+Systems;Welcome+to+My+Digital+World+🚀">
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 B.Tech CSE @ SRM University AP  
-- 🔭 Working on **AI + Real-world Projects**
-- 🌱 Learning **Advanced Machine Learning & System Design**
-- 💡 Interested in **Healthcare AI & Computer Vision**
-- ⚡ Fun fact: I build things that actually solve problems 😎
-
----
-
-## 🚀 Projects & Interests
-
-- 🎤 Speech Emotion Recognition  
-- 🌿 Plant Disease Detection  
-- 💊 Medicine Detection System  
-
----
-
-## 🤝 Let's Collaborate
-
-- 🧠 Machine Learning Projects (Healthcare / Agriculture)
-- 🌐 MERN Stack Applications
-- 🚀 AI Research solving real-world problems
-
----
-
-## 🛠️ Tech Stack
-
+<!-- 3D Hacker Quote -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch&perline=7" />
+  <span style="color:#00ffff;">⚡ I don’t follow trends</span><br>
+  <span style="color:#ff00ff;">🧠 I train machines to create them</span><br>
+  <span style="color:#ffff00;">🚀 Future is under construction</span>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌌 SYSTEM DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarbeshyadav1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeshyadav1&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbeshyadav1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarbeshyadav1&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeshyadav1&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 CORE MODULES (ABOUT ME)
 
-<p align="center">
-  <a href="https://linkedin.com/in/sarbesh-yadav-27811a299">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:sarbesh_yadav@srmap.edu.in">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+```diff
++ 🎓 B.Tech CSE @ SRM University AP
++ 🤖 AI/ML Developer (Computer Vision + Deep Learning)
++ 🚀 Building real-world intelligent systems
++ 🔥 Focus: Healthcare AI, Automation, Scalable Apps
