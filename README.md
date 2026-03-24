@@ -1,5 +1,36 @@
-# 💫 About Me:
-<br><br>🔨 I’m currently working on <br><br>➤ 🎙️ **Speech Emotion Recognition** using Deep Learning & audio processing<br>➤ 🌿 **Plant Disease Detection** with Fuzzy Health Scoring (Computer Vision)<br>➤ 💊 **Medicine Detection** with real-time classification<br><br>---<br><br>👥 I’m looking to collaborate on <br><br>➤ 🤝 **Open-source Machine Learning projects** (Healthcare & Agriculture)<br>➤ 🌐 **Full-stack Web Applications** using MERN (MongoDB, Express, React, Node.js)<br>➤ 🧠 **AI/ML research projects** solving real-world problems<br><br>---<br><br> 🤝 I’m looking for help with <br><br>➤ ⚙️ **Deep Learning model optimization** & cloud deployment (AWS / GCP)<br>➤ 🏗️ **Scalable system design** & backend architecture<br>➤ 🔄 **MLOps practices** and CI/CD pipelines for ML models<br><br>---<br><br>🌱 I’m currently learning <br><br>➤ 🐳 **Docker & Kubernetes** for containerization<br>➤ 📊 **Advanced TensorFlow** & neural network architectures<br>➤ ☁️ **AWS Cloud services** & serverless deployment<br>➤ 📐 **System Design** for scalable applications<br><br>---<br><br> 💬 Ask me about<br><br>➤ 💻 **MERN Stack** (React.js, Node.js, Express, MongoDB)<br>➤ 🤖 **Machine Learning** with Python, TensorFlow, Scikit-learn & OpenCV<br>➤ 👁️ **Computer Vision** & CNN architectures<br>➤ 🏥 **AI solutions** for Healthcare & Agriculture<br>➤ 📡 **IoT applications** in Healthcare systems<br><br>---<br><br>## ⚡ Fun fact<br><br>➤ 🌾 Conducted research and built ML models that help farmers detect plant diseases early<br>➤ 🏥 Conducted research on IoT in Healthcare while still in college
+<h1 align="center">Hi 👋, I'm Sarbesh Yadav</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;Open%20Source%20Contributor;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+</p>
+
+## 🧠 About Me
+
+- 🎓 B.Tech CSE @ SRM University AP  
+- 🔭 Working on **AI + Real-world Projects**
+- 🌱 Learning **Advanced Machine Learning & System Design**
+- 💡 Interested in **Healthcare AI & Computer Vision**
+- ⚡ Fun fact: I build things that actually solve problems 😎
+
+
+## 🤝 Let's Collaborate
+
+- 🧠 Machine Learning Projects (Healthcare / Agriculture)
+- 🌐 MERN Stack Applications
+- 🚀 AI Research Projects solving real-world problems
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch&perline=7" />
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarbeshyadav1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeshyadav1&theme=tokyonight" />
+</p>
 
 
 ## 🌐 Socials:
@@ -24,4 +55,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sarbeshyadav1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
