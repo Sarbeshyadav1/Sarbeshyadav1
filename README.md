@@ -7,14 +7,7 @@
 
 <!-- FUTURISTIC TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=Booting+AI+Systems...;Loading+Neural+Networks...;Deploying+Smart+Solutions...;Welcome+to+My+Cyber+Space+🚀"/>
-</p>
------
-<!-- HACKER STYLE QUOTE -->
-<p align="center">
-  <span style="color:#00ffff;">⚡ I don’t just code</span><br>
-  <span style="color:#ff00ff;">🧠 I engineer intelligence</span><br>
-  <span style="color:#ffff00;">🚀 Systems that think, learn, and evolve</span>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=Booting+AI+Systems...;Loading+Neural+Networks...;Deploying+Smart+Solutions...;Welcome+to+My+professional+Space+🚀"/>
 </p>
 
 ---
@@ -27,7 +20,8 @@
 + Education   : B.Tech CSE @ SRM University AP
 + Mission     : Build intelligent systems that solve real-world problems
 + Status      : Always Learning | Always Building 🚀
-
++ 
+---
 <!-- Hacker Quote -->
 <p align="center">
   <span style="color:#00ffff;">🤖 Training models by day</span><br>
@@ -96,3 +90,11 @@
   </a>
 </p>
 
+---
+
+<!-- HACKER STYLE QUOTE -->
+<p align="center">
+  <span style="color:#00ffff;">⚡ I don’t just code</span><br>
+  <span style="color:#ff00ff;">🧠 I engineer intelligence</span><br>
+  <span style="color:#ffff00;">🚀 Systems that think, learn, and evolve</span>
+</p>
